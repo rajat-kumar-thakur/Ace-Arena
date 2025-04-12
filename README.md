@@ -15,7 +15,3 @@ Arcade Academy. "Arcade Academy API Documentation." https://api.arcade.academy/e
 Tkinter Documentation. (n.d.). Retrieved from https://docs.python.org/3/library/tkinter.html
 
 Github Repository. (n.d.). https://github.com/Andereoo/TkSolitaire
-
-
-
-.
